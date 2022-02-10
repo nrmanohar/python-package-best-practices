@@ -48,7 +48,9 @@ Luckily, `cookiecutter` created a folder designed specifically for that purpose.
 The folder is in `molecool/data/`.
 This folder can contain any data useful for testing of the basic functionality of our code.
 Be mindful that this folder is also downloaded when installing our package,
-so do not include data whose size is significant. 
+so do not include data whose size is significant.
+
+I made this edit for the sake of making an edit 
 
 Go ahead and copy the pdb files to a new folder `pdb` inside the data folder.
 With the files in our `molecool` folder,
