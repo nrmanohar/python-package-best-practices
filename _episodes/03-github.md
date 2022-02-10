@@ -42,6 +42,8 @@ Click `Create repository`.
 
 Now, GitHub very helpfully gives us directions for how to get our code on GitHub.
 
+Another random edit
+
 Before we follow these directions, let's look at a few things in the repository.
 When you want to be able to put your code online in a repository, you have to add what git calls `remotes`.
 Currently, our repository has no remotes. See this by typing
